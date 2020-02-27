@@ -1,5 +1,6 @@
 ﻿using DesignPatterns.Examples.Decorator;
 using DesignPatterns.Examples.Factory;
+using DesignPatterns.Examples.Observer;
 using DesignPatterns.Examples.Singleton;
 
 namespace DesignPatterns
@@ -11,6 +12,7 @@ namespace DesignPatterns
             RunDecorator.Run();
             RunFactory.Run();
             RunSingleton.Run();
+            RunObserver.Run();
         }
     }
 }
