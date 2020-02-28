@@ -70,7 +70,7 @@ namespace DesignPatterns.Examples.Observer
             Notify();
         }
 
-        public bool Process(string email) => email.Equals("");
+        public bool Process(string email) => email.Equals("viet.nguyen@fujitechjsc.com");
 
     }
 }

@@ -42,7 +42,7 @@ namespace DesignPatterns.Examples.Observer
             account.Login(new LoginRequestModel
             {
                 Email = "viet.nguyen@fujitechjsc.com",
-                IP = "127.0.0.1"
+                IP = "127.0.0.2"
             });
 
             Console.WriteLine("\n");
