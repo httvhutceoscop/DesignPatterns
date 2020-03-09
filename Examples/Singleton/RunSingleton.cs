@@ -6,7 +6,7 @@ namespace DesignPatterns.Examples.Singleton
     {
         public static void Run()
         {
-            Console.WriteLine("===== Decorator =====");
+            Console.WriteLine("===== Singleton =====");
             Console.WriteLine("\n");
 
             Console.WriteLine("You wrote log file");

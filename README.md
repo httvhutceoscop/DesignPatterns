@@ -17,3 +17,8 @@ Adapter Pattern là một dạng pattern khá đơn giản và phổ biến, nó
 
 
 ## Observer, Chain of Responsibility
+
+
+## Flyweight
+- https://gpcoder.com/4626-huong-dan-java-design-pattern-flyweight/
+- https://www.dotnettricks.com/learn/designpatterns/flyweight-design-pattern-dotnet
